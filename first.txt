@@ -2,3 +2,5 @@ Hello every one
 
 Hi
 not yet commit
+
+these lines will not be seen in the remote repository
